@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vernan-contact-form/static/css/main.ba81b480.css",
+    "main.js": "/vernan-contact-form/static/js/main.122e3cf7.js",
+    "static/js/453.8e2dfb19.chunk.js": "/vernan-contact-form/static/js/453.8e2dfb19.chunk.js",
+    "index.html": "/vernan-contact-form/index.html",
+    "main.ba81b480.css.map": "/vernan-contact-form/static/css/main.ba81b480.css.map",
+    "main.122e3cf7.js.map": "/vernan-contact-form/static/js/main.122e3cf7.js.map",
+    "453.8e2dfb19.chunk.js.map": "/vernan-contact-form/static/js/453.8e2dfb19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba81b480.css",
+    "static/js/main.122e3cf7.js"
+  ]
+}
