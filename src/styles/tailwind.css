@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-dot: radial-gradient(#e6b5a5 1.2px, transparent 1.2px);
+}
+
+/* Optional global font fallback */
+body { font-family: 'Poppins', sans-serif; }

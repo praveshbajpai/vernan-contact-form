@@ -1,0 +1,22 @@
+{
+  "info": {
+    "name": "EZ Labs Contact API",
+    "_postman_id": "3f9a7f1e-1234-4c7e-9b9b-aaaaaaaaaaaa",
+    "description": "POST /api/contact-us/ with required fields. Use this to verify 200 OK.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Submit Contact Form",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "url": { "raw": "https://vernanbackend.ezlab.in/api/contact-us/", "protocol": "https", "host": ["vernanbackend","ezlab","in"], "path": ["api","contact-us",""] },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"Amit\",\n  \"email\": \"hsatyamrav@gmail.com\",\n  \"phone\": \"908765498\",\n  \"message\": \"Testing form\"\n}"
+        }
+      }
+    }
+  ]
+}
